@@ -4,3 +4,4 @@
 2. Concentration directly impacts the quality and speed of learning; maintaining focus ensures academic success and helps you make steady progress in whatever you are studying or undertaking. In short, this system is designed to help people avoid external distractions, enabling them to complete their work consistently and to a high standard. It will be especially beneficial for individuals with ADHD who are motivated to learn, though it is equally useful for anyone else—after all, getting distracted is a common challenge that can affect anyone. We created this camera-equipped stand to provide real value to people and help address this widespread issue.
 ![3D model](<images/Снимок экрана 2026-11-19 064010.png>)
 ![3D model](<images/Снимок экрана 2026-11-19 064049.png>)
+![PCB](<images/Снимок экрана 2026-11-19 064222.png>)
