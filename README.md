@@ -1,1 +1,1 @@
-# Antiprockreal
+# Antiprock: универсальный трекер камер
